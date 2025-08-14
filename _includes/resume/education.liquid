@@ -12,6 +12,7 @@
           {% else %}
             {% assign date = null %}
           {% endif %}
+          {% if content.date %} {% assign date = content.date | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
           <table class="table-cv">
             <tbody>
               <tr>

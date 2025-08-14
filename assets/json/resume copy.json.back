@@ -79,13 +79,57 @@
       "summary": ""
     }
   ],
+  /*"certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],*/
   "publications": [
     {
-      "name": " test",
-      "publisher": "tes",
-      "releaseDate": "tes",
-      "url": "tes",
-      "summary": "test"
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
@@ -104,26 +148,28 @@
   ],
   "skills": [
     {
-      "name": "Robotique",
-      "level": "Contrôle-commande temps-réel",
+      "name": "Physics",
+      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Xenomai",
-        "Commande en force",
-        "Télémanipulation",
-        "Robotique médicale",
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Français",
-      "fluency": "Langue maternelle",
+      "language": "German",
+      "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "Anglais",
-      "fluency": "Professionnel",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
@@ -155,12 +201,12 @@
   ],
   "projects": [
     {
-      "name": "RAMSAI",
-      "summary": "Robotized Additive Manufacturing for Silicone assisted by Articificial Intelligence",
-      "highlights": ["Fabrication additive silicone", "Fabrication additive robotisée", "Robotique souple"],
-      "startDate": "01-01-2020",
-      "endDate": "",
-      "url": ""
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
