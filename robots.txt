@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://laurent-barbe.github.io//sitemap.xml
+Sitemap: https://laurent-barbe.github.io/lb_folio/sitemap.xml
